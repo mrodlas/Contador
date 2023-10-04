@@ -10,6 +10,7 @@ import com.mgh.pmdm.contador.R.id.botonMenos
 class MainActivity : AppCompatActivity() {
 
     var contador=0
+    //Esto es un comentario
 
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
